@@ -1,0 +1,827 @@
+{
+  "results_found": 24,
+  "results_start": 0,
+  "results_shown": 20,
+  "restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16506782
+        },
+        "apikey": "......",
+        "id": "16506782",
+        "name": "Hoffa",
+        "url": "https://www.zomato.com/praha/hoffa-nové-město-praha-1?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Senovážné náměstí 22, Nové Město, Praha 1",
+          "locality": "Nové Město",
+          "city": "Praha 1",
+          "city_id": 84,
+          "latitude": "50.0856201000",
+          "longitude": "14.4317913000",
+          "zipcode": "110 00",
+          "country_id": 54
+        },
+        "cuisines": "Mediterranean, Tapas",
+        "average_cost_for_two": 600,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/2/16506782/b8302f4812d6b883975d0cfe911bb897_res_featured_thumb.jpeg",
+        "user_rating": {
+          "aggregate_rating": "3.8",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "38"
+        },
+        "photos_url": "https://www.zomato.com/praha/hoffa-nové-město-praha-1/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/hoffa-nové-město-praha-1/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/2/16506782/b8302f4812d6b883975d0cfe911bb897_featured_v2.jpeg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16506782",
+        "events_url": "https://www.zomato.com/praha/hoffa-nové-město-praha-1/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16515725
+        },
+        "apikey": "......",
+        "id": "16515725",
+        "name": "Koliba Praha",
+        "url": "https://www.zomato.com/praha/koliba-praha-chodov-praha-4?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Gregorova 2298/8, Chodov, Praha 4",
+          "locality": "Chodov",
+          "city": "Praha 4",
+          "city_id": 84,
+          "latitude": "50.0358950000",
+          "longitude": "14.4776940000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Slovak, Czech",
+        "average_cost_for_two": 850,
+        "price_range": 4,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/16515725/9dd43965a515b4d4f266c616aaaa2d31_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "3.6",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "13"
+        },
+        "photos_url": "https://www.zomato.com/praha/koliba-praha-chodov-praha-4/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/koliba-praha-chodov-praha-4/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/16515725/9dd43965a515b4d4f266c616aaaa2d31_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16515725",
+        "events_url": "https://www.zomato.com/praha/koliba-praha-chodov-praha-4/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16517175
+        },
+        "apikey": "......",
+        "id": "16517175",
+        "name": "Zlatá Praha - Hotel InterContinental",
+        "url": "https://www.zomato.com/praha/zlatá-praha-hotel-intercontinental-staré-město-praha-1?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Hotel InterContinental, Pařížská 30, Staré Město, Praha 1",
+          "locality": "Staré Město",
+          "city": "Praha 1",
+          "city_id": 84,
+          "latitude": "50.0914670000",
+          "longitude": "14.4181310000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Czech, Mediterranean",
+        "average_cost_for_two": 2500,
+        "price_range": 4,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/16517175/06f52b83f333301640378f35f43bd0f0_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "3.6",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "13"
+        },
+        "photos_url": "https://www.zomato.com/praha/zlatá-praha-hotel-intercontinental-staré-město-praha-1/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/zlatá-praha-hotel-intercontinental-staré-město-praha-1/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/16517175/06f52b83f333301640378f35f43bd0f0_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16517175",
+        "events_url": "https://www.zomato.com/praha/zlatá-praha-hotel-intercontinental-staré-město-praha-1/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16509900
+        },
+        "apikey": "......",
+        "id": "16509900",
+        "name": "Café Mozart - Grand Hotel Praha",
+        "url": "https://www.zomato.com/praha/café-mozart-grand-hotel-praha-staré-město-praha-1?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Grand Hotel Praha, Staroměstské náměstí 22, Staré Město, Praha 1",
+          "locality": "Staré Město",
+          "city": "Praha 1",
+          "city_id": 84,
+          "latitude": "50.0868722222",
+          "longitude": "14.4207888889",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Cafe",
+        "average_cost_for_two": 400,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/0/16509900/e48f982085b8bb28a459b4ad4b876036_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "3.6",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "8"
+        },
+        "photos_url": "https://www.zomato.com/praha/café-mozart-grand-hotel-praha-staré-město-praha-1/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/café-mozart-grand-hotel-praha-staré-město-praha-1/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/0/16509900/e48f982085b8bb28a459b4ad4b876036_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16509900",
+        "events_url": "https://www.zomato.com/praha/café-mozart-grand-hotel-praha-staré-město-praha-1/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16509145
+        },
+        "apikey": "......",
+        "id": "16509145",
+        "name": "Viva Praha - Choco-story",
+        "url": "https://www.zomato.com/praha/viva-praha-choco-story-staré-město-praha-1?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Celetná 10, Staré Město, Praha 1",
+          "locality": "Staré Město",
+          "city": "Praha 1",
+          "city_id": 84,
+          "latitude": "50.0870277778",
+          "longitude": "14.4231916667",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Desserts",
+        "average_cost_for_two": 600,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/16509145/df9360b296fbceec6f510d07526a3df2_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "3"
+        },
+        "photos_url": "https://www.zomato.com/praha/viva-praha-choco-story-staré-město-praha-1/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/viva-praha-choco-story-staré-město-praha-1/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/16509145/df9360b296fbceec6f510d07526a3df2_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16509145",
+        "events_url": "https://www.zomato.com/praha/viva-praha-choco-story-staré-město-praha-1/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16506167
+        },
+        "apikey": "......",
+        "id": "16506167",
+        "name": "Restaurace Krásná Praha",
+        "url": "https://www.zomato.com/praha/restaurace-krásná-praha-nové-město-praha-1?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Masarykovo nábřeží 246/12, Nové Město, Praha 1",
+          "locality": "Nové Město",
+          "city": "Praha 1",
+          "city_id": 84,
+          "latitude": "50.0776283000",
+          "longitude": "14.4144901000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Czech, Grill",
+        "average_cost_for_two": 720,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/7/16506167/858a3405b74097bc8ba9ecdcbdf1f34f_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "2.8",
+          "rating_text": "Average",
+          "rating_color": "EDD614",
+          "votes": "9"
+        },
+        "photos_url": "https://www.zomato.com/praha/restaurace-krásná-praha-nové-město-praha-1/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/restaurace-krásná-praha-nové-město-praha-1/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/7/16506167/858a3405b74097bc8ba9ecdcbdf1f34f_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16506167",
+        "events_url": "https://www.zomato.com/praha/restaurace-krásná-praha-nové-město-praha-1/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16509176
+        },
+        "apikey": "......",
+        "id": "16509176",
+        "name": "Café Praha - Corinthia Hotel",
+        "url": "https://www.zomato.com/praha/café-praha-corinthia-hotel-nusle-praha-4?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Corinthia Hotel, Kongresová 1, Nusle, Praha 4",
+          "locality": "Nusle",
+          "city": "Praha 4",
+          "city_id": 84,
+          "latitude": "50.0630833333",
+          "longitude": "14.4318638889",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Cafe",
+        "average_cost_for_two": 600,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/6/16509176/2228ef3c43f52ba0a71ab324a28b3a08_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "2"
+        },
+        "photos_url": "https://www.zomato.com/praha/café-praha-corinthia-hotel-nusle-praha-4/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/café-praha-corinthia-hotel-nusle-praha-4/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/6/16509176/2228ef3c43f52ba0a71ab324a28b3a08_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16509176",
+        "events_url": "https://www.zomato.com/praha/café-praha-corinthia-hotel-nusle-praha-4/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16512785
+        },
+        "apikey": "......",
+        "id": "16512785",
+        "name": "L'Estaminet - Ibis Praha Malá Strana",
+        "url": "https://www.zomato.com/praha/lestaminet-ibis-praha-malá-strana-smíchov-praha-5?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Ibis Hotel, Plzeňská 14, Smíchov, Praha 5",
+          "locality": "Smíchov",
+          "city": "Praha 5",
+          "city_id": 84,
+          "latitude": "50.0721260000",
+          "longitude": "14.4005790000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Czech",
+        "average_cost_for_two": 1100,
+        "price_range": 4,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/16512785/76dd4ae67bd72010afe09fbadebac4f6_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "2"
+        },
+        "photos_url": "https://www.zomato.com/praha/lestaminet-ibis-praha-malá-strana-smíchov-praha-5/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/lestaminet-ibis-praha-malá-strana-smíchov-praha-5/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/16512785/76dd4ae67bd72010afe09fbadebac4f6_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16512785",
+        "events_url": "https://www.zomato.com/praha/lestaminet-ibis-praha-malá-strana-smíchov-praha-5/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16511695
+        },
+        "apikey": "......",
+        "id": "16511695",
+        "name": "Pizza Praha",
+        "url": "https://www.zomato.com/praha/pizza-praha-žižkov-praha-3?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Táboritská 3, Žižkov, Praha 3",
+          "locality": "Žižkov",
+          "city": "Praha 3",
+          "city_id": 84,
+          "latitude": "50.0836730000",
+          "longitude": "14.4540220000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Italian",
+        "average_cost_for_two": 330,
+        "price_range": 2,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/16511695/5fd271db0f90bf6168d9aa017029052d_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "2"
+        },
+        "photos_url": "https://www.zomato.com/praha/pizza-praha-žižkov-praha-3/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/pizza-praha-žižkov-praha-3/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/16511695/5fd271db0f90bf6168d9aa017029052d_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16511695",
+        "events_url": "https://www.zomato.com/praha/pizza-praha-žižkov-praha-3/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16511979
+        },
+        "apikey": "......",
+        "id": "16511979",
+        "name": "Stará Praha",
+        "url": "https://www.zomato.com/praha/stará-praha-malá-strana-praha-5?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Vítězná 11, Malá Strana, Praha 5",
+          "locality": "Malá Strana",
+          "city": "Praha 5",
+          "city_id": 84,
+          "latitude": "50.0811430000",
+          "longitude": "14.4058410000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Czech",
+        "average_cost_for_two": 650,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/9/16511979/ac7b6a65b162a641f5ede722cd953e5e_res_featured_thumb.jpeg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "3"
+        },
+        "photos_url": "https://www.zomato.com/praha/stará-praha-malá-strana-praha-5/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/stará-praha-malá-strana-praha-5/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/9/16511979/ac7b6a65b162a641f5ede722cd953e5e_featured_v2.jpeg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16511979",
+        "events_url": "https://www.zomato.com/praha/stará-praha-malá-strana-praha-5/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16506531
+        },
+        "apikey": "......",
+        "id": "16506531",
+        "name": "Moravia restaurant - TOP HOTEL Praha",
+        "url": "https://www.zomato.com/praha/moravia-restaurant-top-hotel-praha-chodov-praha-4?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "TOP HOTEL Praha, Blažimská 1781/4, Chodov, Praha 4",
+          "locality": "Chodov",
+          "city": "Praha 4",
+          "city_id": 84,
+          "latitude": "50.0419106000",
+          "longitude": "14.4979972000",
+          "zipcode": "149 00",
+          "country_id": 54
+        },
+        "cuisines": "Czech, Italian",
+        "average_cost_for_two": 700,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/1/16506531/142eb51657844c6a731825983f0ec045_res_featured_thumb.png",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "3"
+        },
+        "photos_url": "https://www.zomato.com/praha/moravia-restaurant-top-hotel-praha-chodov-praha-4/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/moravia-restaurant-top-hotel-praha-chodov-praha-4/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/1/16506531/142eb51657844c6a731825983f0ec045_featured_v2.png",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16506531",
+        "events_url": "https://www.zomato.com/praha/moravia-restaurant-top-hotel-praha-chodov-praha-4/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16509590
+        },
+        "apikey": "......",
+        "id": "16509590",
+        "name": "Bowling Centrum Praha",
+        "url": "https://www.zomato.com/praha/bowling-centrum-praha-žižkov-praha-3?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Koněvova 13, Žižkov, Praha 3",
+          "locality": "Žižkov",
+          "city": "Praha 3",
+          "city_id": 84,
+          "latitude": "50.0876780000",
+          "longitude": "14.4548890000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Pizza",
+        "average_cost_for_two": 300,
+        "price_range": 2,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/0/16509590/959fc7ac9255dc49a8407e362fd43670_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "1"
+        },
+        "photos_url": "https://www.zomato.com/praha/bowling-centrum-praha-žižkov-praha-3/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/bowling-centrum-praha-žižkov-praha-3/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/0/16509590/959fc7ac9255dc49a8407e362fd43670_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16509590",
+        "events_url": "https://www.zomato.com/praha/bowling-centrum-praha-žižkov-praha-3/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16506385
+        },
+        "apikey": "......",
+        "id": "16506385",
+        "name": "Motokáry Praha",
+        "url": "https://www.zomato.com/praha/motokáry-praha-letňany-praha-9?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Toužimská 51, Letňany, Praha 9",
+          "locality": "Letňany",
+          "city": "Praha 9",
+          "city_id": 84,
+          "latitude": "50.1365100000",
+          "longitude": "14.5174160000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Czech",
+        "average_cost_for_two": 300,
+        "price_range": 2,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/5/16506385/bc6a735d5460df84f673359718ee71bd_featured_thumb.jpeg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "2"
+        },
+        "photos_url": "https://www.zomato.com/praha/motokáry-praha-letňany-praha-9/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/motokáry-praha-letňany-praha-9/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/16506385/2e43c82a79aca1295ef61bc6b90ba4c6_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16506385",
+        "events_url": "https://www.zomato.com/praha/motokáry-praha-letňany-praha-9/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16521469
+        },
+        "apikey": "......",
+        "id": "16521469",
+        "name": "Bohemia Top Restaurant - TOP HOTEL Praha",
+        "url": "https://www.zomato.com/praha/bohemia-top-restaurant-top-hotel-praha-chodov-praha-4?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "TOP HOTEL Praha, Blažimská 1781/4, Chodov, Praha 4",
+          "locality": "Chodov",
+          "city": "Praha 4",
+          "city_id": 84,
+          "latitude": "50.0419106000",
+          "longitude": "14.4979972000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Czech",
+        "average_cost_for_two": 500,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/9/16521469/a01ca3bdaa39cbb04d878100bb4b9d27_res_featured_thumb.png",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "2"
+        },
+        "photos_url": "https://www.zomato.com/praha/bohemia-top-restaurant-top-hotel-praha-chodov-praha-4/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/bohemia-top-restaurant-top-hotel-praha-chodov-praha-4/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/9/16521469/a01ca3bdaa39cbb04d878100bb4b9d27_featured_v2.png",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16521469",
+        "events_url": "https://www.zomato.com/praha/bohemia-top-restaurant-top-hotel-praha-chodov-praha-4/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16521819
+        },
+        "apikey": "......",
+        "id": "16521819",
+        "name": "Dvůr umění Praha",
+        "url": "https://www.zomato.com/praha/dvůr-umění-praha-malá-strana-praha-1?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Mostecká 14, Malá Strana, Praha 1",
+          "locality": "Malá Strana",
+          "city": "Praha 1",
+          "city_id": 84,
+          "latitude": "50.0874040000",
+          "longitude": "14.4061370000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Cafe",
+        "average_cost_for_two": 150,
+        "price_range": 1,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/9/16521819/b7380ff223796b9b9a0c152619314ac1_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "0"
+        },
+        "photos_url": "https://www.zomato.com/praha/dvůr-umění-praha-malá-strana-praha-1/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/dvůr-umění-praha-malá-strana-praha-1/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/9/16521819/b7380ff223796b9b9a0c152619314ac1_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16521819",
+        "events_url": "https://www.zomato.com/praha/dvůr-umění-praha-malá-strana-praha-1/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16512670
+        },
+        "apikey": "......",
+        "id": "16512670",
+        "name": "Lobby bar - TOP HOTEL Praha",
+        "url": "https://www.zomato.com/praha/lobby-bar-top-hotel-praha-chodov-praha-4?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "TOP HOTEL Praha, Blažimská 1781/4, Chodov, Praha 4",
+          "locality": "Chodov",
+          "city": "Praha 4",
+          "city_id": 84,
+          "latitude": "50.0417880000",
+          "longitude": "14.4961860000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Drinks Only",
+        "average_cost_for_two": 250,
+        "price_range": 2,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/0/16512670/fa757805b23d4b78bf9c11819f33525e_res_featured_thumb.png",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "0"
+        },
+        "photos_url": "https://www.zomato.com/praha/lobby-bar-top-hotel-praha-chodov-praha-4/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/lobby-bar-top-hotel-praha-chodov-praha-4/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/0/16512670/fa757805b23d4b78bf9c11819f33525e_featured_v2.png",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16512670",
+        "events_url": "https://www.zomato.com/praha/lobby-bar-top-hotel-praha-chodov-praha-4/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16521471
+        },
+        "apikey": "......",
+        "id": "16521471",
+        "name": "Pivovarská Restaurace - TOP HOTEL Praha",
+        "url": "https://www.zomato.com/praha/pivovarská-restaurace-top-hotel-praha-chodov-praha-4?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "TOP HOTEL Praha, Blažimská 1781/4, Chodov, Praha 4",
+          "locality": "Chodov",
+          "city": "Praha 4",
+          "city_id": 84,
+          "latitude": "50.0409970000",
+          "longitude": "14.4961850000",
+          "zipcode": "149 00",
+          "country_id": 54
+        },
+        "cuisines": "Czech, Grill",
+        "average_cost_for_two": 750,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/1/16521471/f607f6e3f2f1e2d216afcf8dc5c912b3_res_featured_thumb.png",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "0"
+        },
+        "photos_url": "https://www.zomato.com/praha/pivovarská-restaurace-top-hotel-praha-chodov-praha-4/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/pivovarská-restaurace-top-hotel-praha-chodov-praha-4/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/1/16521471/f607f6e3f2f1e2d216afcf8dc5c912b3_featured_v2.png",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16521471",
+        "events_url": "https://www.zomato.com/praha/pivovarská-restaurace-top-hotel-praha-chodov-praha-4/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16510843
+        },
+        "apikey": "......",
+        "id": "16510843",
+        "name": "Restaurace Hotel Barcelo Praha Five",
+        "url": "https://www.zomato.com/praha/restaurace-hotel-barcelo-praha-five-smíchov-praha-5?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Hotel Barcelo Praha Five, Radlicka 46, Smíchov, Praha 5",
+          "locality": "Smíchov",
+          "city": "Praha 5",
+          "city_id": 84,
+          "latitude": "50.0667290000",
+          "longitude": "14.4023870000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Czech",
+        "average_cost_for_two": 800,
+        "price_range": 4,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/3/16510843/745e97f94ab317cf6e818497077fb886_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "0"
+        },
+        "photos_url": "https://www.zomato.com/praha/restaurace-hotel-barcelo-praha-five-smíchov-praha-5/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/restaurace-hotel-barcelo-praha-five-smíchov-praha-5/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/3/16510843/745e97f94ab317cf6e818497077fb886_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16510843",
+        "events_url": "https://www.zomato.com/praha/restaurace-hotel-barcelo-praha-five-smíchov-praha-5/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16520854
+        },
+        "apikey": "......",
+        "id": "16520854",
+        "name": "Sport Arena Praha",
+        "url": "https://www.zomato.com/praha/sport-arena-praha-dubeč-praha-10?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Kalašova 186, Dubeč, Praha 10",
+          "locality": "Dubeč",
+          "city": "Praha 10",
+          "city_id": 84,
+          "latitude": "50.0632110000",
+          "longitude": "14.5900500000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Drinks Only",
+        "average_cost_for_two": 160,
+        "price_range": 1,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/4/16520854/36bfbfa2af8d513270a68943036495bd_res_featured_thumb.jpg",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "0"
+        },
+        "photos_url": "https://www.zomato.com/praha/sport-arena-praha-dubeč-praha-10/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/sport-arena-praha-dubeč-praha-10/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/4/16520854/36bfbfa2af8d513270a68943036495bd_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/16520854",
+        "events_url": "https://www.zomato.com/praha/sport-arena-praha-dubeč-praha-10/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 17887555
+        },
+        "apikey": "......",
+        "id": "17887555",
+        "name": "Staročeská pivnice - TOP HOTEL Praha",
+        "url": "https://www.zomato.com/praha/staročeská-pivnice-top-hotel-praha-chodov-praha-4?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "TOP HOTEL Praha, Blažimská 1781/4, Chodov, Praha 4",
+          "locality": "Chodov",
+          "city": "Praha 4",
+          "city_id": 84,
+          "latitude": "50.0409910000",
+          "longitude": "14.4961750000",
+          "zipcode": "",
+          "country_id": 54
+        },
+        "cuisines": "Czech",
+        "average_cost_for_two": 750,
+        "price_range": 3,
+        "currency": "Kč",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/17887555/8e30ecc5c8fa55d6d70234cce51e4b00_res_featured_thumb.png",
+        "user_rating": {
+          "aggregate_rating": "0",
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": "0"
+        },
+        "photos_url": "https://www.zomato.com/praha/staročeská-pivnice-top-hotel-praha-chodov-praha-4/photos#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "menu_url": "https://www.zomato.com/praha/staročeská-pivnice-top-hotel-praha-chodov-praha-4/menu#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/17887555/8e30ecc5c8fa55d6d70234cce51e4b00_featured_v2.png",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://r/17887555",
+        "events_url": "https://www.zomato.com/praha/staročeská-pivnice-top-hotel-praha-chodov-praha-4/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    }
+  ]
+}
