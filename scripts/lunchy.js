@@ -24,5 +24,5 @@ module.exports = (robot) => {
 
   let search = new Search(robot);
 
-  robot.respond(/search (.*)/i, search.respond.bind(search))
+  robot.respond(/search(.*)/i, search.respond.bind(search))
 }
