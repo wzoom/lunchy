@@ -25,4 +25,5 @@ module.exports = (robot) => {
   let search = new Search(robot);
 
   robot.respond(/search(.*)/i, search.respond.bind(search))
+  robot.respond(/list/i, search.list.bind(search))
 }
