@@ -1,0 +1,71 @@
+{
+  "daily_menus": [
+    {
+      "daily_menu": {
+        "daily_menu_id": 18110603,
+        "start_date": "2016-04-26 00:00:00",
+        "end_date": "2016-04-26 23:59:59",
+        "name": "",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": 578115819,
+              "name": "4dl Rajčatová polévka s pečenými paprikami a koriandrem ",
+              "price": "50 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": 578115820,
+              "name": "4dl Hovězí vývar     ",
+              "price": "50 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": 578115821,
+              "name": "2dl polévky s hlavním chodem    ",
+              "price": "20 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": 578115822,
+              "name": "150g Karbanátek z hovězího masa a červené řepy s rukolovým salátem a jogurtovou omáčkou",
+              "price": "120 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": 578115823,
+              "name": "150g Kuřecí paella        ",
+              "price": "120 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": 578115824,
+              "name": "250g Pórkové placičky se šťouchanými bramborami    ",
+              "price": "100 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": 578115825,
+              "name": "200g Jarní salát s ředkvičkami, kedlubnou, zeleným chřestem a blaťáckým zlatem  ",
+              "price": "100 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": 578115826,
+              "name": "Dezert dle denní nabídky ",
+              "price": "50 Kč"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "success"
+}
