@@ -26,4 +26,5 @@ module.exports = (robot) => {
 
   robot.respond(/search(.*)/i, search.respond.bind(search))
   robot.respond(/list/i, search.list.bind(search))
+  robot.respond(/remove(.*)/i, search.removePlace.bind(search))
 }
