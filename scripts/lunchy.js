@@ -18,13 +18,13 @@
     * @lunchy [vote|(number)] Vote for particular daily menu - showing user face beneath the attachment
  */
 
-import Search from '../lib/Search'
+import TeamPlace from '../lib/Search'
 
 module.exports = (robot) => {
 
-  let search = new Search(robot);
+  let teamPlace = new TeamPlace(robot);
 
-  robot.respond(/search(.*)/i, search.respond.bind(search))
-  robot.respond(/list/i, search.list.bind(search))
-  robot.respond(/remove(.*)/i, search.removePlace.bind(search))
+  robot.respond(/(search|add)(.*)/i, teamPlace.search.bind(teamPlace))
+  robot.respond(/list/i, teamPlace.list.bind(teamPlace))
+  robot.respond(/remove(.*)/i, teamPlace.removePlace.bind(teamPlace))
 }
