@@ -25,7 +25,8 @@ module.exports = (robot) => {
 
   let teamPlace = new TeamPlace(robot);
 
-  console.log('ROBOT:', _.flatMapDepth(robot));
+  console.log('ROBOT:', robot.adapterName, 'MAP:', _.flatMap(robot));
+  console.log('STRING ROBOT:', JSON.stringify(robot));
 
   robot.respond(/(search|add)(.*)/i, teamPlace.search.bind(teamPlace))
   robot.respond(/list/i, teamPlace.list.bind(teamPlace))
