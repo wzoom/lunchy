@@ -18,11 +18,14 @@
     * @lunchy [vote|(number)] Vote for particular daily menu - showing user face beneath the attachment
  */
 
+import _ from 'lodash'
 import TeamPlace from '../lib/TeamPlace'
 
 module.exports = (robot) => {
 
   let teamPlace = new TeamPlace(robot);
+
+  console.log('ROBOT:', _.flatMapDepth(robot));
 
   robot.respond(/(search|add)(.*)/i, teamPlace.search.bind(teamPlace))
   robot.respond(/list/i, teamPlace.list.bind(teamPlace))
