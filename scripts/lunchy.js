@@ -18,7 +18,7 @@
     * @lunchy [vote|(number)] Vote for particular daily menu - showing user face beneath the attachment
  */
 
-import TeamPlace from '../lib/Search'
+import TeamPlace from '../lib/TeamPlace'
 
 module.exports = (robot) => {
 
