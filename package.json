@@ -31,6 +31,7 @@
     "node": "5.3.x"
   },
   "devDependencies": {
+    "babel-cli": "^6.9.0",
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
   }
