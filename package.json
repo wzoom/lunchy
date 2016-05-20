@@ -15,7 +15,6 @@
     "eu": "^1.3.2",
     "hubot": "^2.18.0",
     "hubot-conversation": "^1.0.3",
-    "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.3",
     "hubot-heroku-keepalive": "^1.0.2",
     "hubot-redis-brain": "0.0.3",
