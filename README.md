@@ -59,7 +59,7 @@ Login and create Heroku app first. If you don't have Heroku account, please see 
     
 ### 3. Add Redis data store 
 
-Redis is a crucial part of Lunchy, as it stores all downloaded daily menus and team's favorite restaurants. @Lunchy can quickly access desired information this way.
+Redis is a crucial part of Lunchy, as it stores all downloaded daily menus and team's favorite restaurants. Lunchy can quickly access desired information this way.
 
 	% heroku addons:create rediscloud:free
     
@@ -73,7 +73,8 @@ You have to login to Zomato with your account and then [create API key](https://
 
 ### 5. Integrate with Slack ![](https://cdn-images-1.medium.com/fit/c/32/32/1*TiKyhAN2gx4PpbOsiBhYcw.png)
 We are almost there...
-1. Add [Add Hubot App Integration](https://slack.com/apps/A0F7XDU93-hubot) to your Slack account. :blue_book: *Note: **Hubot** is a bot framework that Lunchy is built on.*    
+
+1. Add [Add Hubot App Integration](https://slack.com/apps/A0F7XDU93-hubot) to your Slack account. :blue_book: *Note: [Hubot](https://hubot.github.com/) is a bot framework that Lunchy is built upon.*    
 2. Choose username: **lunchy**
 3. Copy the API Token
 4. Set the API Token to environment variable `HUBOT_SLACK_TOKEN`:
