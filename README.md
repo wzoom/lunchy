@@ -2,7 +2,7 @@
 
 ## Lunchy sends daily menus of your favorite restaurants into  ![](https://cdn-images-1.medium.com/fit/c/32/32/1*TiKyhAN2gx4PpbOsiBhYcw.png) Slack.
 
-![Sample List of Daily Menus by: @lunchy list](../docs/images/slack-screenshot.png)
+![Sample List of Daily Menus by: @lunchy list](../master/docs/images/slack-screenshot.png)
 
 ## Hello! Talk to me...
 
