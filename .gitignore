@@ -4,3 +4,4 @@ dist
 .hubot_history
 .idea
 .env
+npm-debug.log
