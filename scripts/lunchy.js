@@ -23,6 +23,6 @@ module.exports = (robot) => {
 
   robot.respond(/(search|add)(.*)/i, teamPlace.searchRestaurants.bind(teamPlace));
   robot.respond(/(location)(.*)/i, teamPlace.searchCities.bind(teamPlace));
-  robot.respond(/list/i, teamPlace.list.bind(teamPlace));
+  robot.respond(/(list|menu|menus)/i, teamPlace.list.bind(teamPlace));
   robot.respond(/remove(.*)/i, teamPlace.removePlace.bind(teamPlace));
 };

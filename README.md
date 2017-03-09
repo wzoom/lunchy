@@ -7,7 +7,13 @@
 ## Hello! Talk to me...
 
 
-1. First **Add Favorite Restaurants** by searching it's name of meal
+0. Set up **Your City**
+
+	```java
+    @lunchy location Prague
+    ```
+
+1. **Add Favorite Restaurants** by searching it's name of meal
 
 	```java
     @lunchy add burger
@@ -16,7 +22,7 @@
 2. Then **List Daily Menus** from your Favorites
 
 	```java
-	@lunchy list
+	@lunchy menus
     ```
     
 3. **Remove Restaurant** from your Favorites
